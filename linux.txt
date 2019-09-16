@@ -47,3 +47,5 @@ which git <-- install git
 -name install git software
 
 split 2 instances 
+
+hello world
