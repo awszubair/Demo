@@ -1,0 +1,49 @@
+create 2 ansible instances 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sudo vi /etc/sshd_config
+rm #
+sudo server sshd restart
+
+cat is used to view the last words
+sudo vi /etc/hosts
+private instances
+sudo su - <-- switch to root access
+useradd ansible
+passwd ansible
+visudo <-- in side ansible ALL=(ALL)  NOPASSWD ALL=(ALL)
+sudo vi /etc/hosts
+
+ls
+
+sudo vi hosts <-- [web] 2 instances ip address 
+[sample]
+
+
+
+mkdir playbook
+cd playbook
+vi 123.yml
+ansible-playbook 123.yml
+t
+which git <-- install git 
+
+
+-name install git software
+
+split 2 instances 
